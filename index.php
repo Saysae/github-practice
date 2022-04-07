@@ -8,6 +8,8 @@ echo "this is my third practice";
 
 echo"testing git config --global credntial.helper store";
 
-echo "change this 4th test"
+echo "change this 4th test";
+
+echo "5th test";
 ?>
 
